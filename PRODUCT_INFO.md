@@ -10,8 +10,6 @@ Kodun tamamı **şifreli ve tescilli lisans** ile dağıtılmaktadır. Burada ya
 - 📑 6 Kategorili Log Sistemi  
 - ⚙️ 15+ Komut (Admin, Moderasyon, Bilgi, Genel)  
 - 📦 Kurulum Kılavuzu ile kolay aktivasyon  
-- 💰 Fiyat paketleri: ₺299 – ₺799  
-
 ---
 
 ## 🛒 Satın Alma
@@ -27,4 +25,4 @@ Detaylı şartlar için: [EULA.md](./EULA.md)
 
 ---
 
-© [YYYY] [Marka/İsim]. Tüm hakları saklıdır.
+© [2025] [AdvancedGuard]. Tüm hakları saklıdır.
