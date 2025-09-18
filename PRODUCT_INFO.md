@@ -15,7 +15,7 @@ Kodun tamamı **şifreli ve tescilli lisans** ile dağıtılmaktadır. Burada ya
 ## 🛒 Satın Alma
 Ürünü yalnızca **Itemsatış üzerinden resmi olarak satın alabilirsiniz.**
 
-👉 [Itemsatış İlan Linki](https://www.itemsatis.com/)  
+👉 [Itemsatış İlan Linki]([https://www.itemsatis.com/](https://www.itemsatis.com/discord/profesyonel-discord-guard-bot-4305669.html))  
 
 ---
 
